@@ -3,7 +3,7 @@
 
 ## ERD
 
-<img width="2380" height="1268" alt="Database ER diagram (crow's foot) (2)" src="https://github.com/user-attachments/assets/c7e976b7-1c52-49bd-9c31-196dd5f45058" />
+<img width="2380" height="1268" alt="Database ER diagram (crow's foot) (3)" src="https://github.com/user-attachments/assets/1e4725fa-0851-41f7-a2b7-86f439a5f123" />
 
 
 # NOTES:
